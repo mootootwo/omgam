@@ -6,7 +6,7 @@ The Table refers to the collective group of players who participate in the game.
 
 The players are responsible for the actions of their Characters, and use Fudge dice to determine the outcome of their actions.
 
-The Fudge dice (dF) are six sided and labeled with Plus, Blank, and Minus sides.
+The Fudge dice (dF) have an equal number of Plus, Blank, and Minus sides.  These are treated as +1, 0, and -1 respectively.
 
 ## Play
 During play, each player controls one or more characters.  Characters have six attributes that describe their abilities.  Each attribute may be rated from -2 through +2.  The attributes are:
